@@ -1,2 +1,2 @@
 # html-baslik-sablonu
-Hazır başlık şablonu. Ne halt ederseniz edin! (Bkz. WTFPL)
+Hazır başlık şablonu. Ne halt ederseniz edin! (Bkz. "LICENSE" dosyası)
